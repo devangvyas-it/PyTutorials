@@ -1,5 +1,11 @@
 # Python Tutorials
 
+## 🌐 Connect with me
+
+- 🎥 YouTube: [Python School](https://www.youtube.com/@pythonschool-py)
+
+If you find these tutorials helpful, please don't forget to like and subscribe to the channel!
+
 Welcome to the Python Tutorials repository! This collection of scripts and examples is designed to help you learn and practice various Python programming concepts, ranging from the absolute basics to more advanced topics.
 
 ## Repository Structure
@@ -7,6 +13,9 @@ Welcome to the Python Tutorials repository! This collection of scripts and examp
 - **Basics/**: Contains fundamental Python programming concepts and examples.
   - `dictionary_sample.py`: Examples of creating, reading, updating, and deleting items in Python dictionaries.
   - `fibonacci.py`: Example demonstrating how to generate the Fibonacci sequence.
+  - `reverse_list.py`: Example demonstrating how to reverse a list in Python with single line of code.
+- **OOP/**: Object-Oriented Programming concepts and examples.
+  - `class_object.py`: Introduction to defining classes, creating objects, and using methods.
 
 ## Getting Started
 
