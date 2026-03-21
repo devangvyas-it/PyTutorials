@@ -16,6 +16,11 @@ Welcome to the Python Tutorials repository! This collection of scripts and examp
   - `reverse_list.py`: Example demonstrating how to reverse a list in Python with single line of code.
 - **OOP/**: Object-Oriented Programming concepts and examples.
   - `class_object.py`: Describes the fundamentals of OOP by introducing classes, creating objects, and using methods.
+- **Tips/**: Contains quick Python tips and tricks for writing more efficient and Pythonic code.
+  - `check_duplicates.py`: Example demonstrating how to check for duplicates in a list using loops and sets.
+  - `lambda_function.py`: Example demonstrating how to use lambda functions in Python for quick, one-line operations.
+  - `list_comprehension.py`: Example demonstrating how to use list comprehension for cleaner and more efficient loops.
+  - `list_reverse.py`: Example demonstrating how to reverse a list in Python using slice notation.
 
 ## Getting Started
 
