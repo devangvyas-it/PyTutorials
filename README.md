@@ -13,14 +13,17 @@ Welcome to the Python Tutorials repository! This collection of scripts and examp
 - **Basics/**: Contains fundamental Python programming concepts and examples.
   - `dictionary_sample.py`: Examples of creating, reading, updating, and deleting items in Python dictionaries.
   - `fibonacci.py`: Example demonstrating how to generate the Fibonacci sequence.
-  - `reverse_list.py`: Example demonstrating how to reverse a list in Python with single line of code.
 - **OOP/**: Object-Oriented Programming concepts and examples.
   - `class_object.py`: Describes the fundamentals of OOP by introducing classes, creating objects, and using methods.
 - **Tips/**: Contains quick Python tips and tricks for writing more efficient and Pythonic code.
   - `check_duplicates.py`: Example demonstrating how to check for duplicates in a list using loops and sets.
+  - `dict_merge.py`: Example demonstrating three different ways to merge dictionaries in Python.
+  - `fstring_4_examples.py`: Four useful examples of f-string formatting in Python.
   - `lambda_function.py`: Example demonstrating how to use lambda functions in Python for quick, one-line operations.
   - `list_comprehension.py`: Example demonstrating how to use list comprehension for cleaner and more efficient loops.
   - `list_reverse.py`: Example demonstrating how to reverse a list in Python using slice notation.
+  - `pandas_groupby.py`: Example demonstrating how to calculate aggregates using vanilla Python vs the Pandas groupby method.
+  - `zip_example.py`: Example demonstrating how to iterate over multiple lists simultaneously using `zip` and `zip_longest`.
 
 ## Getting Started
 
