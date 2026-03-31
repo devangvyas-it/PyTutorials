@@ -10,6 +10,9 @@ Welcome to the Python Tutorials repository! This collection of scripts and examp
 
 ## Repository Structure
 
+- **AI/**: Artificial Intelligence integrations and examples.
+  - `sales_analysis.py`: Demonstrates how to use Google Gemini AI to analyze a sales dataset from an Excel file and generate insights.
+
 - **Basics/**: Contains fundamental Python programming concepts and examples.
   - `dictionary_sample.py`: Examples of creating, reading, updating, and deleting items in Python dictionaries.
   - `fibonacci.py`: Example demonstrating how to generate the Fibonacci sequence.
